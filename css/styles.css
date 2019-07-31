@@ -246,3 +246,15 @@ body{
     color:#ffffff;
     font-size: 2.8rem;
 }
+
+.contenido-principal p{
+    font-size: 1.2rem;
+    line-height: 2.2rem;    
+    font-family: 'Lato', sans-serif;
+}
+
+/* sidebar */
+
+aside{
+    background-color: #8ed3cc;
+}
