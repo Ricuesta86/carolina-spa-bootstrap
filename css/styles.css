@@ -308,3 +308,23 @@ aside{
         column-count: 4;
     }
 }
+
+
+ .btn-primary{
+    background-color: #8ed3cc;
+    border: 0;
+    padding: 1rem 5rem;
+    border-radius: 0;
+    font-size: 1.6rem;
+    font-family: 'Lato', sans-serif;
+}
+
+.btn-primary:hover{
+    background-color: #9bc4c0;
+}
+
+/* Formulario de contacto */
+.formulario-contacto{
+    border: 2px solid #929292;
+    background-color: #ffffff;
+}
